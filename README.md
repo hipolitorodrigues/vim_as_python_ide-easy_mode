@@ -1,5 +1,5 @@
 # Set Up Vim as a Python IDE (with Virtual Environment)
-## (To view the Set Up without a virtual environment: [CLICK HERE](https://github.com/hipolitorodrigues/vim_as_python_ide-easy_mode/blob/6e445afa1c58ab503fb262cdd7ec538a38d2e5fd/README-no_virt_env.md))
+## (To view the Set Up without a virtual environment: [CLICK HERE](https://github.com/hipolitorodrigues/vim_as_python_ide-easy_mode/blob/master/README-no_virt_env.md))
 
 ### 1. **Install System Dependencies**
 
