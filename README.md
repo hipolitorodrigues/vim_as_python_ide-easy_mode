@@ -79,7 +79,7 @@ Plug 'jiangmiao/auto-pairs'            " Auto-close brackets and quotes
 " End Vim-Plug block
 call plug#end()
 
-" General Vim Settings (To find the correct Python path, activate the virtual environment and run: $ **which python3**)
+" General Vim Settings (To find the correct Python path, activate the virtual environment and run: $ which python3)
 let g:python3_host_prog = '/PATH/OF/YOUR/PROJECT/env01/bin/python3'
 set number                            " Show line numbers
 " set relativenumber                  " Relative line numbers
